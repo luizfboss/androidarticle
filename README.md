@@ -1,2 +1,2 @@
 # Project1
- This is a sample of a studying process some days ago
+ This is a sample of a studying project about Web Development
